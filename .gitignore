@@ -17,6 +17,10 @@ terraform.rc
 lab-key
 lab-key.pub
 
+# AWS IAM access key exports
+*accessKeys.csv
+*_accessKeys.csv
+
 # Environment Variables
 .env
 .env.local

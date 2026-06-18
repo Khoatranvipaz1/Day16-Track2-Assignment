@@ -1,0 +1,15 @@
+{
+  "rows": 284807,
+  "features": 30,
+  "note": "CPU fallback benchmark on r5.large.",
+  "load_data_seconds": 2.3397,
+  "training_seconds": 3.5487,
+  "best_iteration": 4,
+  "auc_roc": 0.924067,
+  "accuracy": 0.96675,
+  "f1_score": 0.085024,
+  "precision": 0.044625,
+  "recall": 0.897959,
+  "inference_latency_1_row_ms": 1.1681,
+  "inference_throughput_1000_rows_per_second": 816335.86
+}
